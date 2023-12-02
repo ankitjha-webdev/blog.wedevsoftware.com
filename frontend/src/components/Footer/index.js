@@ -25,10 +25,10 @@ const Footer = () => {
                 <input type="submit" className='bg-dark text-light cursor-pointer font-medium rounded px-5 py-1' />
             </form>
             <div className='flex items-center mt-8'>
-                <a href="http://example.com" className="inline-block w-6 h-6 mr-4"><LinkedinIcon className="hover:scale-125 translate-x-all ease duration-200" /></a>
-                <a href="http://example.com" className="inline-block w-6 h-6 mr-4"><Instagram className="hover:scale-125 translate-x-all ease duration-200" /></a>
-                <a href="http://example.com" className="inline-block w-6 h-6 mr-4"><Facebook className="hover:scale-125 translate-x-all ease duration-200" /></a>
-                <a href="http://example.com" className="inline-block w-6 h-6 mr-4"><Github className="hover:scale-125 translate-x-all ease duration-200 fill-light" /></a>
+                <a href="https://www.linkedin.com/in/ankitkumarcse/" className="inline-block w-6 h-6 mr-4"><LinkedinIcon className="hover:scale-125 translate-x-all ease duration-200" /></a>
+                <a href="https://www.instagram.com/we_devsoftware/" className="inline-block w-6 h-6 mr-4"><Instagram className="hover:scale-125 translate-x-all ease duration-200" /></a>
+                <a href="https://www.facebook.com/wedevsoftware" className="inline-block w-6 h-6 mr-4"><Facebook className="hover:scale-125 translate-x-all ease duration-200" /></a>
+                <a href="https://github.com/ankitjha-webdev" className="inline-block w-6 h-6 mr-4"><Github className="hover:scale-125 translate-x-all ease duration-200 fill-light" /></a>
             </div>
             <div className='w-full mt-24 relative font-medium border-t border-solid border-light py-6 px-8 flex flex-row items-center justify-between'>
                 <span className='text-center'>&copy; © 2023 Wedevsoftware. All rights reserved.</span>

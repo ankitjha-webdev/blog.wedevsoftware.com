@@ -8,15 +8,16 @@ function Header() {
         <Logo />
         <nav className="w-max py-3 px-8 border border-solid border-dark rounded-full font-medium capitalize flex items-center fixed top-6 right-1/2 translate-x-1/2 bg-light/80 backdrop-blur-sm z-50">
           <Link href="/" className="mr-2">Home</Link>
+          <Link href="/service" className="mx-2">Service</Link>
           <Link href="/about" className="mx-2">About</Link>
           <Link href="/contact" className="mx-2">Contact</Link>
           <button><SunIcon/></button>
         </nav>
         <div>
-          <a href="http://example.com" className="inline-block w-6 h-6 mr-4"><LinkedinIcon className="hover:scale-125 translate-x-all ease duration-200"/></a>
-          <a href="http://example.com" className="inline-block w-6 h-6 mr-4"><Instagram className="hover:scale-125 translate-x-all ease duration-200"/></a>
-          <a href="http://example.com" className="inline-block w-6 h-6 mr-4"><Facebook className="hover:scale-125 translate-x-all ease duration-200"/></a>
-          <a href="http://example.com" className="inline-block w-6 h-6 mr-4"><Github className="hover:scale-125 translate-x-all ease duration-200"/></a>
+          <a href="https://www.linkedin.com/in/ankitkumarcse/" className="inline-block w-6 h-6 mr-4"><LinkedinIcon className="hover:scale-125 translate-x-all ease duration-200"/></a>
+          <a href="https://www.instagram.com/we_devsoftware/" className="inline-block w-6 h-6 mr-4"><Instagram className="hover:scale-125 translate-x-all ease duration-200"/></a>
+          <a href="https://www.facebook.com/wedevsoftware" className="inline-block w-6 h-6 mr-4"><Facebook className="hover:scale-125 translate-x-all ease duration-200"/></a>
+          <a href="https://github.com/ankitjha-webdev" className="inline-block w-6 h-6 mr-4"><Github className="hover:scale-125 translate-x-all ease duration-200"/></a>
         </div>
     </header>
 

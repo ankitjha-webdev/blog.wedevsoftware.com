@@ -334,7 +334,6 @@ export const MoonIcon = ({ className, ...rest }) => (
   </svg>
 );
 
-
 export const LinkedinIcon = ({ className, ...rest }) => {
   return (
     <svg
