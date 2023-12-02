@@ -26,7 +26,7 @@ const page = () => {
                   required />
               </div>
               <div className="form-group">
-                <textarea name="Message" rows="5" cols="22" id="Message"
+                <textarea name="Message" rows="5" cols="20" id="Message"
                   className="form-control input-message px-24 mb-4" placeholder="Message" required></textarea>
               </div>
               <div className="form-group text-center">

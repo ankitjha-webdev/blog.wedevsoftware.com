@@ -10,3 +10,9 @@
     position: absolute;
     z-index: -1; /* Send the image to the background */
   }
+
+  .icon {
+    font-size: 40px;
+    cursor: pointer;
+    color: inherit;
+  }
